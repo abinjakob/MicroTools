@@ -2,6 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Dec 20 11:08:24 2024
+The script uses the rembg library to remove the background of an image, saves the processed 
+image, and opens it for viewing.
 
 @author: abinjacob
 """
